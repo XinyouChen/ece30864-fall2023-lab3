@@ -1,1 +1,2 @@
 (a) Project manager. The project manager is responsible for prioritizing and overseeing the development tasks. Make sure it matches with the clients' requirements.
+(b) The Scrum Master need to make sure the team is following the Scrum principles and the processes that were agreed upon. Project Owner oversee the entirety of a project.
