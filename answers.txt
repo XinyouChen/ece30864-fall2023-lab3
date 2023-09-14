@@ -1,3 +1,4 @@
 (a) Project manager. The project manager is responsible for prioritizing and overseeing the development tasks. Make sure it matches with the clients' requirements.
 (b) The Scrum Master need to make sure the team is following the Scrum principles and the processes that were agreed upon. Project Owner oversee the entirety of a project.
 (c) spring planning meeting: determine what to complete and start sprint; daily scrum meeting: team members discuss work completed and make the work plan for the day; sprint retrospective meeting: discuss work complete and move incomplete work to backlog, close sprint.
+(d) epic captures a large body of work that can be broken down into smaller stories. Story is a software system requirement that is expressed in a few short sentences. Bug is a problem which prevents the functions of a product. Task is the work that needs to be done.
